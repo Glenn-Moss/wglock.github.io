@@ -9,11 +9,6 @@ body {
 
 
 
-a{
-	color: grey;
-	font-style: italic;
-}
-
 
 
 
@@ -49,6 +44,8 @@ h3{
 
 a.navigation {
 	text-decoration: none;
+	color: grey;
+	font-style: italic;
 }
 
 span.navigation {
