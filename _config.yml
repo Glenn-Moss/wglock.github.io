@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "United States"
-title                    : "WDG Portfolio"
-title_separator          : "-"
+title                    : "Will Glockner
+title_separator          : " "
 name                     : &name "William Daniel Glockner III"
 description              : &description "Class of 2019 double major B.S. in both Human Factors Engineering and Biomedical Engineering. Experience with lab benchwork, interface design, product development, and user research. Looking for an internship or part time position during my second semester senior year. I am looking for a dynamic company that offers me the opportunity to gain more industry knowledge and grow."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
