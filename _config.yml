@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Will Glockner"
+title                    : "My Portfolio"
 title_separator          : "-"
 name                     : &name "William Daniel Glockner III"
-description              : &description "Class of 2019 double major B.S. in both Human Factors Engineering and Biomedical Engineering. Experience with lab benchwork, interface design, product development, and user research. Looking for an internship or part time position during my second semester senior year. I am looking for a dynamic company that offers me the opportunity to gain more industry knowledge and grow."
+description              : &description "Human Factors Engineer and Biomedical Engineer."
 url                      : https://wglock.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wglock/wglock.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Will Glockner"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Biomedical and Human Factors Engineer from Tufts University"
+  location         : "Boston, MA"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "github"
   google_plus      :
   keybase          :
   instagram        :
@@ -107,11 +107,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : 
   wikipedia        :
 
 
