@@ -85,7 +85,7 @@ author:
   bio              : "Biomedical and Human Factors Engineer from Tufts University"
   location         : "Boston, MA"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -95,16 +95,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github"
+  github           : "https://github.com/wglock"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
