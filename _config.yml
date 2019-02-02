@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Portfolio"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Glockner"
 description              : &description "Human Factors Engineer and Biomedical Engineer."
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Will Glockner"
   avatar           : "profile.png"
-  bio              : "Biomedical and Human Factors Engineer from Tufts University"
+  bio              : "Biomedical Engineer and Human Factors Engineer from Tufts University"
   location         : "Boston, MA"
   employer         :
   googlescholar    : 
