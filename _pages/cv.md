@@ -37,22 +37,41 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* Web Programing
+  * JavaScript
+  * HTML
+  * CSS
+* Programing:
+  * C++
+  * Java
+* CAD
+  * SketchUp
+  * SOLIDWORKS
 * Adobe Suite
   * Illustrator
   * InDesign
   * Xd
   * Ps
-* Skill 3
+* Languages
+  * Spanish
+  * French (Novice)
 
 Projects
 ======
 * Adem.
-  * test text
+  * Internet of Things (IoT) Trashcan and iPhone App
+    * Conducted Focus Groups
+    * Determined User Needs
+    * Designed Ui
 * eClinic
-  * test text
+  * Mobile Pharmacy App
+    * Assisted UI Development
+    * Performed User Testing
+    * Presented Project for University Panel
 * SENSIT
-  * test text
+  * Device that tracks time spent sitting
+    * Coded prototype
+    * Pitched product for biomedical hackathon
   
   
 Awards
