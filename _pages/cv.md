@@ -11,49 +11,61 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biomedical Engineering, Tufts University, 2019 (expected)
+* B.S. in Human Factors Engineering, Tufts University, 2019 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Graphic Designer
+  * Hospitality Product Supply
+  * Duties included:
+    * Tagging issues
+  * Supervisor: Alan Taranto
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017: Research Assistant
+  * Kaplan Labs
+  * Duties included:
+    * Converted Raw silk into usable biomaterial for biocompatible fasteners
+    * Evaluated silk quality by monitoring for localized organic impurities
+  * Supervisor: Wesley Schlemmer 
+  
+* Summer 2016: Research Intern
+  * BURL Concepts
+  * Duties included: 
+    * Di tank
+  * Supervisor: Jim Brailean 
   
 Skills
 ======
 * Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Adobe Suite
+  * Illustrator
+  * InDesign
+  * Xd
+  * Ps
 * Skill 3
 
-Publications
+Projects
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Adem.
+  * test text
+* eClinic
+  * test text
+* SENSIT
+  * test text
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
+Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Eagle Scout
+* Dean's List
+  * 2018 Spring
+  * 2018 Fall
   
-Service and leadership
+Activities
 ======
-* Currently signed in to 43 different slack teams
+* Club Lacrosse 2015-2019
+* Climbing 2017-2018
+* Yoga 2017-2019
+* Winemaking 2018-2019
+* Harmonica 2016-2019
