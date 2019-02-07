@@ -19,20 +19,29 @@ Work experience
 * Summer 2018: Graphic Designer
   * Hospitality Product Supply
   * Duties included:
-    * Tagging issues
+    * Designing:
+      *Corporate Line Card
+      *Corporate Stationary
+      *Event Posters, Event Tags, and Event Tickets
+    * Building and managing the company's social media platforms
+    * Revising and editing the company's website
+    * Planning a marketing event for 80+ people
+    * Conducting site inspection and organizing event schedule
   * Supervisor: Alan Taranto
 
 * Summer 2017: Research Assistant
   * Kaplan Labs
   * Duties included:
-    * Converted Raw silk into usable biomaterial for biocompatible fasteners
-    * Evaluated silk quality by monitoring for localized organic impurities
+    * Converting Raw silk into usable biomaterial for biocompatible fasteners
+    * Evaluating silk quality by monitoring for localized organic impurities
   * Supervisor: Wesley Schlemmer 
   
 * Summer 2016: Research Intern
   * BURL Concepts
   * Duties included: 
-    * Di tank
+    * Reviewing Papers and performing background research on ultrasonic devices
+    * Setting up ultrasound transducers and DI water tanks for experiments
+    * Monitored experiments for microbubble signatures
   * Supervisor: Jim Brailean 
   
 Skills
