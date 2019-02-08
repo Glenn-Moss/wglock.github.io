@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-If I were to run into you in an elvator in a random building, I would say: 
+If I were to run into you in an elevator in a random building, I would say: 
 
 Nothing. 
 
