@@ -12,10 +12,11 @@ If I were to run into you in an elvator in a random building, I would say:
 
 Nothing. 
 
-I mean, I would smile at you and probably ask what floor you were getting off at. I would offer to push a button for you... but... I wouldn't start pitching my expertise in biomedical engineering, Ui development, or user research. However, this bizarre phenomenon has, apparently, happened enough for people to expect elevator pitches. Ergo, let us suppose I have bumped into you in the elevator in the Empire State Building. As the elevator hurtles upward at about 1.3 floors a second I would say:
+I mean, I would smile at you and probably ask what floor you were getting off at. I would offer to push a button for you... but... I wouldn't start pitching my expertise in biomedical engineering, Ui development, or user research. However, this bizarre phenomenon has, apparently, happened enough for people to expect elevator pitches. Ergo, let us suppose I have bumped into you in the elevator in the Empire State Building. As the elevator hurtles upward at about 1.3 floors a second, I would say:
 
-Hi my name is Will Glockner and I am a recent graduate from Tufts University. I am both a Biomedical Engineer and a Human Factors Engineer. Human factors engineering is a new field so let me break it down for you. Human factors enginneering is equal parts mechanical engineering, ergonomics, psychology, design, product development, and coding.
+Hi, my name is Will Glockner and I am a recent graduate from Tufts University. I am both a Biomedical Engineer and a Human Factors Engineer. Human factors engineering is a new field so let me break it down for you. Human factors engineering is equal parts mechanical engineering, ergonomics, psychology, design, product development, and coding.
 ---this will be edited and completed later----
+
 
 A data-driven personal website
 ======
