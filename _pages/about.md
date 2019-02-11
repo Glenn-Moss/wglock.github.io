@@ -17,9 +17,9 @@ I mean, I would smile at you and probably ask what floor you were getting off at
 Hi, my name is Will Glockner and I am a recent graduate from Tufts University. I am both a Biomedical Engineer and a Human Factors Engineer. Human factors engineering is a new field so let me break it down for you. Human factors engineering is equal parts mechanical engineering, ergonomics, psychology, design, product development, and coding. I have experience with lab benchwork, interface design, product development, and user research. I am looking for a dynamic company that offers me the opportunity to gain more industry knowledge and grow.
 
 
-A website for everyone
+A Website for Everyone
 ======
-The website has an emphasis on accessibility and all clickable headers can be located and described by windows' default narration program. Also, each portfolio image has an alternate text description that is concise and engaging. Furthermore, the color palate is friendly to a color-blind users.
+This website has an emphasis on accessibility and all clickable headers can be located and described by windows' default narration program. Also, each portfolio image has an alternate text description that is concise and engaging. Furthermore, the color palate is friendly to a color-blind users.
 
 Notes:
 ======
