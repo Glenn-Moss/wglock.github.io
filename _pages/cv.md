@@ -19,10 +19,9 @@ Work experience
 * Summer 2018: Graphic Designer
   * Hospitality Product Supply
   * Duties included:
-    * Designing:
-      *Corporate Line Card
-      *Corporate Stationary
-      *Event Posters, Event Tags, and Event Tickets
+    * Designing Corporate Line Card
+    * Designing Corporate Stationary
+    * Designing Event Posters, Event Tags, and Event Tickets
     * Building and managing the company's social media platforms
     * Revising and editing the company's website
     * Planning a marketing event for 80+ people
