@@ -19,7 +19,7 @@ Hi, my name is Will Glockner and I am a recent graduate from Tufts University. I
 
 A website for everyone
 ======
-The website has an emphasis on accessibility and all clickable headers are described by windows narration program. In addition, the color palate is friendly to a color-blind users.
+The website has an emphasis on accessibility and all clickable headers are described by windows narration program. Also, each portfolio image has an alternate text description that is concise and engaging. Furthermore, the color palate is friendly to a color-blind users.
 
 Notes:
 ======
